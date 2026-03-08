@@ -1,2 +1,2 @@
-# Atchaya
+# Spendwise
 Spendwise
